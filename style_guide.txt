@@ -1,0 +1,93 @@
+# CSS Variables
+:root {
+  --white: #ffffff;
+  --title-color: #091133;
+  --text-color: #6F7CB2;
+  --alt-text-color: #5D6970;
+  --bg: #f3f6ff;
+  --alt-bg: #e7ecff;
+  --section-padding: 60px;
+}
+
+# Fonts
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+# Media Query
+.container {
+  padding: 0 15px;
+  margin: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+#borders
+
+border-radius: 2px;
+
+# Font sizes
+
+h1 => 50px;
+
+h2 => 36px
+
+h3 => 16px
+
+p => 16px;
+
+# Text
+
+Landing
+
+Home
+
+About
+ 
+Contact
+
+Introdce Your Product Quickly & Effectively
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+montes, nascetur ridiculus 
+
+mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+
+Purchase UI Kit
+
+Learn More
+
+Light, Fast & Powerful
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
+
+mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+
+Title Goes Here
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
+
+Purchase Now
+
+A Price To Suit Everyone
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
+
+$40
+
+UI Design Kit
+
+See, One price. Simple.
+
+©2023 Yourcompany
